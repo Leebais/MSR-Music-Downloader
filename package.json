@@ -1,0 +1,14 @@
+{
+  "name": "msr-music-downloader",
+  "version": "0.0.1",
+  "description": "Just a crawler",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm ./app.js"
+  },
+  "author": "Leebais",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  }
+}
